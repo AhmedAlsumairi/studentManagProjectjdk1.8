@@ -12,7 +12,7 @@ public class StudentTest {
 		scanner = new Scanner(System.in);
 		int opt=0;
 		System.out.println("============ Student Data Entry  ===============");
-		System.out.println("Enter the Number of student: ");
+		System.out.println("Enter te Number of student: ");
 		int studentnumber = scanner.nextInt();
 		for(int i=0;i<studentnumber;i++) {
 			student.setStudentData();
