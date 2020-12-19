@@ -23,7 +23,7 @@ public class StudentServices {
 		
 		
 		// Enter Student Name and Id
-		System.out.println("Enter Student ID (number): ");
+		System.out.println("Enter Studfent ID (number): ");
 		student = new Student();
 		student.setStudentID(scanner.nextInt());
 		System.out.println("Enter Student Namem (string) : ");
